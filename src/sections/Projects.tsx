@@ -21,7 +21,7 @@ function Projects() {
         "Tailwind CSS",
       ],
       projectExternalLinks: {
-        github: "https://github.com/itzaditya08/StudyNotion-EdTech-Platform/tree/my-studynotion-branch",
+        github: "https://github.com/itzaditya08/StudyNotion",
         externalLink: "#",
       },
     },
